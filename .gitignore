@@ -2,3 +2,5 @@ env/
 __pycache__
 .env
 notes.md
+.DS_Store
+app/.DS_Store
